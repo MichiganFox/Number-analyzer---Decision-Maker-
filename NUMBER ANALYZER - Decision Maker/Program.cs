@@ -19,23 +19,23 @@ do
 
         else if (user_number % 2 != 0 && user_number < 60)
         {
-            Console.WriteLine(user_name + user_number + " is odd and less than 60");
+            Console.WriteLine(user_name + " , " + user_number + " is odd and less than 60");
         }
         else if (user_number % 2 == 0 && user_number >= 2 && user_number <= 24)
         {
-            Console.WriteLine(user_name + ", " + user_number + " is even and less than 25");
+            Console.WriteLine(user_name + " , " + user_number + " is even and less than 25");
         }
         else if (user_number % 2 == 0 && user_number >= 26 && user_number <= 60)
         {
-            Console.WriteLine(user_name + ", " + user_number + " is even and between 26 and 60");
+            Console.WriteLine(user_name + " , " + user_number + " is even and between 26 and 60");
         }
         else if (user_number % 2 == 0 && user_number > 60)
         {
-        Console.WriteLine(user_name + ", " + user_number + " is even and more than 60");
+        Console.WriteLine(user_name + " , " + user_number + " is even and more than 60");
         }
         else if (user_number % 2 != 0 && user_number > 60)
         {
-            Console.WriteLine(user_name + ", " + user_number + " is even and more than 60");
+            Console.WriteLine(user_name + " , " + user_number + " is odd and more than 60");
         }
     
     Console.WriteLine(user_name + " would you like to do this again?  Yes or No");
