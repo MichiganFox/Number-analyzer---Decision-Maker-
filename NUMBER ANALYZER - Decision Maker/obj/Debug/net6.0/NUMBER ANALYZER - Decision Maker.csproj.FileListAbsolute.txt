@@ -1,0 +1,15 @@
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\bin\Debug\net6.0\NUMBER ANALYZER - Decision Maker.exe
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\bin\Debug\net6.0\NUMBER ANALYZER - Decision Maker.deps.json
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\bin\Debug\net6.0\NUMBER ANALYZER - Decision Maker.runtimeconfig.json
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\bin\Debug\net6.0\NUMBER ANALYZER - Decision Maker.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\bin\Debug\net6.0\NUMBER ANALYZER - Decision Maker.pdb
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.csproj.AssemblyReference.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.AssemblyInfoInputs.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.AssemblyInfo.cs
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.csproj.CoreCompileInputs.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\refint\NUMBER ANALYZER - Decision Maker.dll
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.pdb
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\NUMBER ANALYZER - Decision Maker.genruntimeconfig.cache
+C:\Users\earle\source\repos\GC Folder\GC Course Work\Practice class\NUMBER ANALYZER - Decision Maker\NUMBER ANALYZER - Decision Maker\obj\Debug\net6.0\ref\NUMBER ANALYZER - Decision Maker.dll
